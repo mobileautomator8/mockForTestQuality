@@ -11,3 +11,4 @@ Access Google
     [Tags]  Google
     Sleep               3s
     Title Should Be     Google
+    Capture Page Screenshot

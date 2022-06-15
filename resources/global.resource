@@ -3,5 +3,5 @@ Library  SeleniumLibrary
 Library  BuiltIn
 
 *** Variables ***
-${BROWSER}      Chrome
+${BROWSER}      headlesschrome
 ${GOOGLE_URL}   https://www.google.com
